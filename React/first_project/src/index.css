@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.gjfkj {
+    background-color: #333;
+    color: whitesmoke;
+    height: 100px;
+    font-size: 20px;
+    text-align: center;
+    /* display: flex; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo{
+    height: 250px;
+    width: 350px;
+}
